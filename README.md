@@ -1,7 +1,5 @@
 # Online Appendix for "The Impact of Automated Parameter Optimization on Defect Prediction Models"
 
-[Under review]
-
 ## (1) Correlation analysis for the 18 studied datasets.
 
 ### JM1
